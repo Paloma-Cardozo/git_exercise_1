@@ -1,3 +1,5 @@
 Banana
-Coconut
+Orange
 Watermelon
+Apple
+Grapes
